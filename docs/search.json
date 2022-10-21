@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\nI’ve taught a lot of different courses during my time at Calvin. Here’s a list. For some of the more recent ones you can click on the title of the course to get to a course website.\n\nCS 260 (Automata Theory)\nCS 360 (Complexity and Computability)\nData 303 (Applied Modeling and Visualization) * Math 100 (Mathematics in the Contemporary World)\nMath 132 (Calculus for Management, Life, and Social Sciences)\nMath 156 (Discrete Mathematics for Computer Science)\nMath 171 (Calculus I)\nMath 172 (Calculus II)\nMath 221 (The Real Number System and Methods for Elementary School Teachers)\nMath 232 (Engineering Mathematics)\nMath 251 (Discrete Mathematics I)\nMath 252 (Discrete Mathematics II)\nMath 312 (Logic, Computability, and Complexity)\nMath 361 (Real Analysis)\nMath 362 (Real Analysis II)\nMath 381 (Mathematical Logic)\nMGMT 535 (Statistical Analysis)\nStat 143 (Introduction to Probability and Statistics)\nStat 145 (Biostatistics)\nStat 241 (Engineering Statistics)\nStat 243 (Statistics)\nStat 341 (Computational Bayesian Statistics)\nStat 343 (Probability and Statistics)\nStat 343 (Mathematical Statistics)\nStat W82 (Visualize This! with D3\n\nI’ve also taught at some other places:\n\nFor The Institute for Statistics Education (statistics.com): Visualization in R with ggplot2\nAt University of Michigan: Biostatistics (for graduate students in public health)\nAt Boston University: Accelerated Intro Programming in C\nAt Providence College: Mathematics for the Liberal Arts"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Here are slides and other resources from some of my presentations.\n\n3-Course Dinner or Thanksgiving Feast: Putting the pieces together in a modern Math/Stat sequence\nRandom Thoughts (ACMS 2021)\nMixing D3 and R (Big Data Ignite 2019)\nDomino Arithmetic (GVSU Math Path 2019)\nCreating Packages with RStudio and Github\nTeaching Statistics Using R and RStudio (JMM, January 2018)]\nAn Introduction to ggformula and the tidyverse (City of Hope, January 2018)\nComputation and Visualization Consortium Workshops (2013–17)\nBig Data Ignite 2016\n\nslides from workshop on Shiny\nshiny cheatsheet"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Randall Pruim",
+    "section": "",
+    "text": "Talks\nYou can find slides from some of my talks here.\n\n\nTeaching\nFind out what I’ve taught and access some teaching resources here.\n\n\nIntegrated Ethics Labs\nI’m part of the Integrated Ethics Labs team. Find out more at integratedethicslabs.org\n\n\nBooks\n\nTraditionally Published\nPruim, Randall. 2018. Foundations and Applications of Statistics: An Introduction Using R. 2nd ed. Vol. 28. Pure and Applied Undergraduate Texts. Providence, RI: American Mathematical Society. https://www.ams.org/publications/authors/books/postpub/amstext-28.\nSchöning, Uwe, and Pruim, Randall. 1998. Gems of Theoretical Computer Science. Berlin: Springer-Verlag.\nWegener, Ingo. 2005. Complexity Theory: Exploring the Limits of Efficient Algorithms. Berlin: Springer-Verlag.\n\n\nOnline\nKaplan, Daniel, and Pruim, Randall. 2022. Statistical Modeling: A Fresh Approach."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
