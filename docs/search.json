@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Pruim, Randall. 2018. Foundations and Applications of Statistics: An Introduction Using R. 2nd ed. Vol. 28. Pure and Applied Undergraduate Texts. Providence, RI: American Mathematical Society. https://www.ams.org/publications/authors/books/postpub/amstext-28.\nWegener, Ingo. 2005. Complexity Theory: Exploring the Limits of Efficient Algorithms. Berlin: Springer-Verlag.\nSchöning, Uwe, and Pruim, Randall. 1998. Gems of Theoretical Computer Science. Berlin: Springer-Verlag.\n\n\n\nKaplan, Daniel, and Pruim, Randall. 2022. Statistical Modeling: A Fresh Approach.\nPruim, R. (2021). Statistics for the Physical Sciences and Engineering.\nHorton, N. J., Pruim, R., & Kaplan, D. T. (2015, November). A student’s guide to R.\nPruim, R., Horton, N. J., & Kaplan, D. T. (2015, November). Start teaching with R."
+  },
+  {
     "objectID": "teaching.html#courses",
     "href": "teaching.html#courses",
     "title": "Teaching",
@@ -11,14 +18,14 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Here are slides and other resources from some of my presentations.\n\n3-Course Dinner or Thanksgiving Feast: Putting the pieces together in a modern Math/Stat sequence\nRandom Thoughts (ACMS 2021)\nMixing D3 and R (Big Data Ignite 2019)\nDomino Arithmetic (GVSU Math Path 2019)\nCreating Packages with RStudio and Github\nTeaching Statistics Using R and RStudio (JMM, January 2018)]\nAn Introduction to ggformula and the tidyverse (City of Hope, January 2018)\nComputation and Visualization Consortium Workshops (2013–17)\nBig Data Ignite 2016\n\nslides from workshop on Shiny\nshiny cheatsheet"
+    "text": "3-Course Dinner or Thanksgiving Feast: Putting the pieces together in a modern Math/Stat sequence\nRandom Thoughts (ACMS 2021)\nMixing D3 and R (Big Data Ignite 2019)\nDomino Arithmetic (GVSU Math Path 2019)\nCreating Packages with RStudio and Github\nTeaching Statistics Using R and RStudio (JMM, January 2018)]\nAn Introduction to ggformula and the tidyverse (City of Hope, January 2018)\nComputation and Visualization Consortium Workshops (2013–17)\nBig Data Ignite 2016\n\nslides from workshop on Shiny\nshiny cheatsheet"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Randall Pruim",
     "section": "",
-    "text": "Talks\nYou can find slides from some of my talks here.\n\n\nTeaching\nFind out what I’ve taught and access some teaching resources here.\n\n\nIntegrated Ethics Labs\nI’m part of the Integrated Ethics Labs team. Find out more at integratedethicslabs.org\n\n\nBooks\n\nTraditionally Published\nPruim, Randall. 2018. Foundations and Applications of Statistics: An Introduction Using R. 2nd ed. Vol. 28. Pure and Applied Undergraduate Texts. Providence, RI: American Mathematical Society. https://www.ams.org/publications/authors/books/postpub/amstext-28.\nSchöning, Uwe, and Pruim, Randall. 1998. Gems of Theoretical Computer Science. Berlin: Springer-Verlag.\nWegener, Ingo. 2005. Complexity Theory: Exploring the Limits of Efficient Algorithms. Berlin: Springer-Verlag.\n\n\nOnline\nKaplan, Daniel, and Pruim, Randall. 2022. Statistical Modeling: A Fresh Approach."
+    "text": "Talks\nYou can find slides from some of my talks here.\n\n\nTeaching\nFind out what I’ve taught and access some teaching resources here.\n\n\n\nI’m part of the Integrated Ethics Labs team. Find out more at integratedethicslabs.org.\n\n\nBooks\n\nTraditionally Published\nPruim, Randall. 2018. Foundations and Applications of Statistics: An Introduction Using R. 2nd ed. Vol. 28. Pure and Applied Undergraduate Texts. Providence, RI: American Mathematical Society. https://www.ams.org/publications/authors/books/postpub/amstext-28.\nWegener, Ingo. 2005. Complexity Theory: Exploring the Limits of Efficient Algorithms. Berlin: Springer-Verlag.\nSchöning, Uwe, and Pruim, Randall. 1998. Gems of Theoretical Computer Science. Berlin: Springer-Verlag.\n\n\nOnline\nKaplan, Daniel, and Pruim, Randall. 2022. Statistical Modeling: A Fresh Approach.\nPruim, R. (2021). Statistics for the Physical Sciences and Engineering.\nHorton, N. J., Pruim, R., & Kaplan, D. T. (2015, November). A student’s guide to R.\nPruim, R., Horton, N. J., & Kaplan, D. T. (2015, November). Start teaching with R."
   },
   {
     "objectID": "about.html",
@@ -26,5 +33,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "teaching.html#other-materials",
+    "href": "teaching.html#other-materials",
+    "title": "Teaching",
+    "section": "Other Materials",
+    "text": "Other Materials"
   }
 ]

@@ -4,8 +4,6 @@ format: html
 editor: visual
 ---
 
-## Recent(ish) Presentations by Randall Pruim
-
 Here are slides and other resources from some of my presentations.
 
 -   [3-Course Dinner or Thanksgiving Feast: Putting the pieces together in a modern Math/Stat sequence](https://rpruim.github.io/talks/JSM-2022/JSM2022-thanksgiving-feast.html)

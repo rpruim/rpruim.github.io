@@ -4,7 +4,41 @@ format: html
 editor: visual
 ---
 
-## Materials
+## Books
+
+
+### Traditionally Published
+
+Pruim, Randall. 2018. *Foundations and Applications of Statistics: An
+Introduction Using R*. 2nd ed. Vol. 28. Pure and Applied Undergraduate
+Texts. Providence, RI: American Mathematical Society.
+<https://www.ams.org/publications/authors/books/postpub/amstext-28>.
+
+Wegener, Ingo. 2005. *Complexity Theory: Exploring the Limits of
+Efficient Algorithms*. Berlin: Springer-Verlag.
+
+Schöning, Uwe, and Pruim, Randall. 1998. *Gems of Theoretical Computer
+Science*. Berlin: Springer-Verlag.
+
+### Online
+
+Kaplan, Daniel, and Pruim, Randall. 2022. 
+[*Statistical Modeling: A Fresh Approach*](https://statistical-modeling.netlify.app/).
+
+Pruim, R. (2021). [*Statistics for the Physical Sciences and Engineering*](https://rpruim.github.io/Engineering-Statistics/). 
+
+Horton, N. J., Pruim, R., & Kaplan, D. T. (2015, November). 
+[*A student’s guide to R*](https:// github.com/ProjectMOSAIC/LittleBooks/blob/master/StudentGuide/Studentguide2015-11-09.pdf). 
+
+Pruim, R., Horton, N. J., & Kaplan, D. T. (2015, November). 
+[*Start teaching with R*](https:// github.com/ProjectMOSAIC/LittleBooks/blob/master/Starting/MOSAIC-StartTeaching.pdf).
+
+
+
+## Other Materials
+
+* [![](images/integratedethicslabs-logo.png){fig-alt="Integrated Ethics Labs" height="50px" fig-align="left"}](https://integratedethicslabs.org)
+
 
 ## Courses 
 
