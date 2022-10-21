@@ -1,0 +1,57 @@
+---
+title: "Teaching"
+format: html
+editor: visual
+---
+
+## Materials
+
+## Courses 
+
+I've taught a lot of different courses during my time at Calvin. Here's
+a list. For some of the more recent ones you can click on the title of
+the course to get to a course website.
+
+-   CS 260 (Automata Theory)
+-   CS 360 (Complexity and Computability)
+-   Data 303 ([Applied Modeling and
+    Visualization](https://rpruim.github.io/ds303/S22/)) \* Math 100
+    (Mathematics in the Contemporary World)
+-   Math 132 (Calculus for Management, Life, and Social Sciences)
+-   Math 156 (Discrete Mathematics for Computer Science)
+-   Math 171 (Calculus I)
+-   Math 172 (Calculus II)
+-   Math 221 (The Real Number System and Methods for Elementary School
+    Teachers)
+-   Math 232 (Engineering Mathematics)
+-   Math 251 (Discrete Mathematics I)
+-   Math 252 ([Discrete Mathematics
+    II](https://rpruim.github.io/m252/S22/))
+-   Math 312 (Logic, Computability, and Complexity)
+-   Math 361 (Real Analysis)
+-   Math 362 (Real Analysis II)
+-   Math 381 (Mathematical Logic)
+-   MGMT 535 (Statistical Analysis)
+-   Stat 143 (Introduction to Probability and Statistics)
+-   Stat 145 ([Biostatistics](https://rpruim.github.io/s145/F20/))
+-   Stat 241 ([Engineering
+    Statistics](https://rpruim.github.io/s241/W21/))
+-   Stat 243 (Statistics)
+-   Stat 341 ([Computational Bayesian
+    Statistics](https://rpruim.github.io/s341/S21/))
+-   Stat 343 ([Probability and
+    Statistics](https://rpruim.github.io/s343/F21/))
+-   Stat 343 (Mathematical Statistics)
+-   Stat W82 ([Visualize This! with D3](https://rpruim.github.io/D3/)
+
+I've also taught at some other places:
+
+-   For The Institute for Statistics Education (statistics.com):
+    Visualization in R with ggplot2
+
+-   At University of Michigan: Biostatistics (for graduate students in
+    public health)
+
+-   At Boston University: Accelerated Intro Programming in C
+
+-   At Providence College: Mathematics for the Liberal Arts

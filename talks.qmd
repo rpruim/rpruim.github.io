@@ -1,0 +1,32 @@
+---
+title: "Talks"
+format: html
+editor: visual
+---
+
+## Recent(ish) Presentations by Randall Pruim
+
+Here are slides and other resources from some of my presentations.
+
+-   [3-Course Dinner or Thanksgiving Feast: Putting the pieces together in a modern Math/Stat sequence](https://rpruim.github.io/talks/JSM-2022/JSM2022-thanksgiving-feast.html)
+
+-   [Random Thoughts](https://rpruim.github.io/talks/random-thoughts/2021-01-07-ACMS/Random-Thoughts-ACMS.html#1) (ACMS 2021)
+
+-   [Mixing D3 and R](https://rpruim.github.io/talks/D3/BDI2019/BDI2019-slides.html) (Big Data Ignite 2019)
+
+-   [Domino Arithmetic](https://rpruim.github.io/talks/domino-arithmetic/domino-arithmetic-slides.html) (GVSU Math Path 2019)
+
+-   [Creating Packages with RStudio and Github](https://rpruim.github.io/talks/R-Packages/R-packages-slides.html)
+
+-   [Teaching Statistics Using R and RStudio](https://rpruim.github.io/talks/jmm-2018)
+(JMM, January 2018)]
+
+-   [An Introduction to ggformula and the tidyverse](https://rpruim.github.io/talks/city-of-hope-2018)
+(City of Hope, January 2018)
+
+-   [Computation and Visualization Consortium Workshops](https://dtkaplan.github.io/CVC/) (2013--17)
+
+-   Big Data Ignite 2016
+
+    -   [slides from workshop on Shiny](https://rpruim.github.io/talks/bigdataignite2016/shiny/04-Shiny.pdf)
+    -   [shiny cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf)
